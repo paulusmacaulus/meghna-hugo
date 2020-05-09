@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/home-hero.png"
+  bg_image: "/images/home-hero.png"
   icon: ''
-  title: Maca wants to Hug - Who needs a Hug?
+  title: Maca wants to Hug<br /> Who needs a Hug?
   content: Lorem said to ipsum i need a dolor so why dont you sit on my amet while
     twisting your consectetur you dirty filty Ipsum you.
   button:
